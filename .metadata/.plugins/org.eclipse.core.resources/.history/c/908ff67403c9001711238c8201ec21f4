@@ -10,7 +10,6 @@ public class Numbers {
 		String line = scanner.nextLine();
 		int n = Integer.parseInt(line);
 		for (int x = 1; x <= n; x++) {
-			
 			System.out.print(n);
 		}
 		
